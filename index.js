@@ -11,7 +11,7 @@ function decrease() {
     count -= 1
     countEl.textContent = count
     } else {
-        console.log("Tore können nicht unter 0 sein.")
+        console.log("Personen können nicht unter 0 sein.")
     }
 }
 
